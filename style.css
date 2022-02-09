@@ -3,7 +3,9 @@ caption{
     color: blue;
     font-weight: bold;
 }
-
+h1.titulo{
+    font-family: 'Hanalei', cursive;
+}
 h1{
     text-align: center;
 }
@@ -26,9 +28,6 @@ table.vacia{
 }
 table.segundo{
     caption-side: bottom;
-}
-+tbody{
-    border: red 5px solid;
 }
 h1.final{
 background-color: rgb(255, 196, 0);
