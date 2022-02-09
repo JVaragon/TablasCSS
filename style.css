@@ -7,10 +7,32 @@ caption{
 h1{
     text-align: center;
 }
+tr.negrita{
+    font-weight: bold;
+}
 table{
     width: 60%;
     margin: auto;
 }
 td{
     text-align: center;
+}
+table.vacia{
+    margin-top: 2%;
+    border-collapse: collapse;
+    width: 80%;
+    border: 1px black solid;
+    margin-bottom: 2%;
+}
+table.segundo{
+    caption-side: bottom;
+}
++tbody{
+    border: red 5px solid;
+}
+h1.final{
+background-color: rgb(255, 196, 0);
+color: blue;
+padding: 2%;
+border: red solid;
 }
